@@ -240,7 +240,7 @@ export const pengembalian = async (page) => {
       continue;
     }
 
-    logger.info(`Berhasil Input Pengembalian id batch : ${sls.id_sls}`)
+    logger.info(`Berhasil Input Pengembalian id sls : ${sls.id_sls}`)
 
   }
 }
