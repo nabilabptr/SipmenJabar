@@ -2,7 +2,9 @@
 
 **Pastikan sudah install [Node JS](https://nodejs.org/en/download/) di Laptop anda**
 
-1. Klik Download ZIP <img src="downloadZIP_Screenshot.png" alt="Alt text" title="">
+1. Klik Download ZIP 
+<img src="downloadZIP_Screenshot.png" alt="Alt text" title="">
+
 2. Edit file `.env`.
   - SIPMEN_USERNAME = isikan email
   - SIPMEN_PASSWORD = isikan password
