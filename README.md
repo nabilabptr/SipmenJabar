@@ -15,19 +15,19 @@
 npm install
 ```
 	
-   1. Input data pengambilan dokumen.
+   - Input data pengambilan dokumen.
 
 ```
 node index.js pengambilan
 ```
 
-   3. Input data pengembalian dokumen.
+   - Input data pengembalian dokumen.
 
 ```
 node index.js pengembalian
 ```
 
-   4. Hapus record distribusi. 
+   - Hapus record distribusi. 
 
 ```
 node index.js pengembalian
