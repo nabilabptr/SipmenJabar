@@ -35,8 +35,5 @@ node index.js pengembalian
 
    Jika ingin hapus semua record dalam 1 batch, cukup input id batchnya aja, kalo cuma mau hapus 1 sls, input id SLSnya aja.
 
-**_Note:_**
-Server webnya lumayan lambat, jadi tunggu aja. Tapi klo kelamaan, di close aja browsernya terus jalanin ulang. Memang terkadang _stuck_ gitu.
-
 **SEMANGAT SIPMEN**
 
